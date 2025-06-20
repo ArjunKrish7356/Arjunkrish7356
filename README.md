@@ -30,7 +30,7 @@
 
 ### 💡 My Vision
 
-> “Automate life with AI agents, then relax—coffee in hand, world on autopilot.”
+> “My mission is to build AI agents that take care of life’s busywork, giving us all the time and space to chase what truly fulfills us.”
 > <br />
 > <i>I’m all about building smart, autonomous systems that handle the busywork so I can focus on the fun stuff (and maybe a few naps).</i>
 
