@@ -77,10 +77,3 @@
   <a href="mailto:arjunkrishna7356@gmail.com">Email</a>
   <br /><br />
   <i>Open to collaborating on plans for autonomous agents!</i>
-</p>
-
-<br/>
-
-<i>“Building a life of automation while I automate my life.”</i>
-
-</div>
