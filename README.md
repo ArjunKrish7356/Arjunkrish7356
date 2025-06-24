@@ -55,7 +55,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArjunKrish7356&show_icons=true&theme=radical" alt="Arjun's GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArjunKrish7356&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
