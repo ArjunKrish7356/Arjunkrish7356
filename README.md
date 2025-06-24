@@ -36,15 +36,6 @@
 
 ---
 
-### 🤝 Let’s Collaborate
-
-<p align="center">
-  If you're building LLM-powered tools or AI/agent-driven systems, let’s team up!<br />
-  Always happy to collaborate on projects that help automate life—starting with ours!
-</p>
-
----
-
 ### 🛠️ Tech & Tools
 
 <p align="center">
