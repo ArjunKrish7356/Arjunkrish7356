@@ -66,5 +66,3 @@
   <a href="https://www.linkedin.com/in/m-arjun-krishna-5b924b256">LinkedIn</a> •
   <a href="https://leetcode.com/u/Arjun7356/">LeetCode</a> •
   <a href="mailto:arjunkrishna7356@gmail.com">Email</a>
-  <br /><br />
-  <i>Open to collaborating on plans for autonomous agents!</i>
