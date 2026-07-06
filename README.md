@@ -21,7 +21,7 @@
 ### 🔭 About Me
 
 <p align="center">
-  AI intern at <b>Aiotrix</b>, exploring LLMs, agents, and automation.<br />
+  SWE @ <b>Alfaedge</b> Ex -AI intern at <b>Aiotrix</b>, exploring LLMs, agents, and automation.<br />
   Enthusiast of <b>Rust</b>, <b>Python</b>, and all things LLM/agent-related.<br />
   On a mission to build a future where AI agents automate everything—so I can just kick back and chill 😎.
 </p>
